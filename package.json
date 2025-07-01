@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mirzaatifbaig.github.io/zsutand-app",
+  "homepage": "https://mirzaatifbaig.github.io/zustand-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
